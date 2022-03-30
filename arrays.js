@@ -37,4 +37,5 @@ console.log(strings.length);
    console.log(fruitsVeggies);
 
  //10 get the index of one the fruits or veggies in your fruitsAndveggies array
-   console.log(fruitsVeggies[5]);
+   
+   console.log(fruitsVeggies.indexOf("veggie4"));
